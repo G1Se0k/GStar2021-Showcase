@@ -14,8 +14,6 @@ Unity로 만든 **그리드 기반 타워 디펜스 게임**. 12×5 타일에 �
 |--------|-------------|-------------|
 | ![](screenshots/title.png) | ![](screenshots/gameplay.png) | ![](screenshots/boss.png) |
 
-**플레이 영상**: [YouTube 링크 자리]
-
 ---
 
 ## 프로젝트 개요
